@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://dawnanao5708.github.io/.github/cronette">
+<a href="https://klarasadbury.github.io/.github/cronette-task-manager">
 <img src="https://img.shields.io/badge/GET_Cronette-green?style=for-the-badge&logo=apple" alt="GET Cronette">
 </a>
 </div>
